@@ -1,5 +1,5 @@
-![photo1692806306](https://github.com/sarahmohammed1234/Bootstrap/assets/94794262/6803a445-e2a6-43f6-9acb-ca6f85141623)
 ## Bootstrap Project 
+npm i bootstrap-icons
 We were asked, during the first week of the summer training at Qassim Panorama Company, an individual task, which is to study and 
 complete the Satr platform course on full stack JavaScript. We were asked to complete the first seven tracks of the course,
 which were about (html, css, Bootstrap, DOM, JavaScript101-102-103) And sending the projects that are within each track after 
