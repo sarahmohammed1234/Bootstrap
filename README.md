@@ -1,5 +1,3 @@
-<a harf="![photo1692807035 (1)](https://github.com/sarahmohammed1234/Bootstrap/assets/94794262/d85f2d98-a3f9-42a8-93a0-0c533a0349ff)" >
-
 ## Bootstrap Project 💜🧩💜
 
 We were asked, during the first week of the summer training at Qassim Panorama Company, an individual task, which is to study and 
