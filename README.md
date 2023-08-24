@@ -1,3 +1,4 @@
+![photo1692807095](https://github.com/sarahmohammed1234/Bootstrap/assets/94794262/08963fa0-36f6-4290-9a17-a013a578517e)
 ## Bootstrap Project 💜🧩💜
 
 We were asked, during the first week of the summer training at Qassim Panorama Company, an individual task, which is to study and 
@@ -7,3 +8,4 @@ that (some tracks did not include projects), we were given a grace of five days 
 
 
 
+![photo1692807035 (1)](https://github.com/sarahmohammed1234/Bootstrap/assets/94794262/b390632d-bb37-4e15-aa5e-7a7d43c6f976)
